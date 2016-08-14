@@ -1,0 +1,1 @@
+     CREATE TABLE xml_table( file_id INT NOT NULL AUTO_INCREMENT,content VARCHAR(1200) NOT NULL,creationDate VARCHAR(50) NOT NULL);
